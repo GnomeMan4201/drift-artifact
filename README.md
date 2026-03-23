@@ -50,3 +50,7 @@ drift-artifact/
 ## Artifact
 
 Live: https://gnomeman4201.github.io/drift-artifact/artifact/drift_artifact_v2.html
+
+---
+
+*drift-artifact // badBANANA research // GnomeMan4201*
