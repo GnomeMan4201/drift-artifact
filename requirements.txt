@@ -1,0 +1,2 @@
+# drift-artifact is a static HTML artifact + method documentation.
+# No runtime dependencies. The artifact runs in any modern browser.
